@@ -23,8 +23,14 @@
     => npm run dev > 실행 파일 감시(watch)하며 자동으로 프로그램 재실행 / ctrl + c 2번하여 종료 가능
     실행 중이면 작업 관리자에 Node.js JavaScript Runtime 표시됨 / 종료 가능
 
-    - 다른 파일에서 보내기/가져오기
+    - 다른 파일에서 보내기/가져오기 [cjs 문법]
     (가져갈 파일) module.exports = { * .... };
     (가져올 파일) require("./***.js");
+
+    <img width="1272" height="597" alt="image" src="https://github.com/user-attachments/assets/1c2b7961-27f1-4a31-a2ac-9448424e6ca6" />
+
+    사진 내용 index.js 적용 시 package.json 파일의 type을 commonjs > module로 변경해야 esm문법으로 변경되어 제대로 적용됨
+
+    
 
     
