@@ -31,6 +31,14 @@
 
     사진 내용 index.js 적용 시 package.json 파일의 type을 commonjs > module로 변경해야 esm문법으로 변경되어 제대로 적용됨
 
+  ## git 연결 
+    Docs/git/README.md 참고
+
+    cd (폴더명) : (폴더명)으로 이동
+    cd ..  : 상위 디렉토리 이동
+    rmdir /s /q (폴더명) : 폴더 삭제
+    
+
 
     
     
