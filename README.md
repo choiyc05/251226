@@ -1,6 +1,6 @@
 # 251226
 
- ## node.js
+ ## node.js 
     web_study/frontend/node/
     node.js 다운
 
@@ -31,6 +31,8 @@
 
     사진 내용 index.js 적용 시 package.json 파일의 type을 commonjs > module로 변경해야 esm문법으로 변경되어 제대로 적용됨
 
+
+    
     
 
     
