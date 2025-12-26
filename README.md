@@ -20,5 +20,6 @@
     }
     확인하여 설치 
     => node_modules는 github 등에 올려서 이동할 필요 없음
+    => npm run dev > 실행 파일 감시(watch)하며 자동으로 프로그램 재실행 / ctrl + c 2번하여 종료 가능
 
     
